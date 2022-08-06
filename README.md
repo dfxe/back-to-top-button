@@ -9,3 +9,5 @@ cd back-to-top
 npm i
 npm start
 ```
+
+Or check it out [here on Codepen](https://codepen.io/dfxe/pen/gOezBjZ).
